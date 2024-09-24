@@ -1,0 +1,16 @@
+F:\3 КУРС\МДК 03.02\Cars\Cars\bin\Debug\Cars.exe.config
+F:\3 КУРС\МДК 03.02\Cars\Cars\bin\Debug\Cars.exe
+F:\3 КУРС\МДК 03.02\Cars\Cars\bin\Debug\Cars.pdb
+F:\3 КУРС\МДК 03.02\Cars\Cars\obj\Debug\Cars.csproj.AssemblyReference.cache
+F:\3 КУРС\МДК 03.02\Cars\Cars\obj\Debug\Cars.E24Form.resources
+F:\3 КУРС\МДК 03.02\Cars\Cars\obj\Debug\Cars.MainForm.resources
+F:\3 КУРС\МДК 03.02\Cars\Cars\obj\Debug\Cars.Properties.Resources.resources
+F:\3 КУРС\МДК 03.02\Cars\Cars\obj\Debug\Cars.csproj.GenerateResource.cache
+F:\3 КУРС\МДК 03.02\Cars\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
+F:\3 КУРС\МДК 03.02\Cars\Cars\obj\Debug\Cars.exe
+F:\3 КУРС\МДК 03.02\Cars\Cars\obj\Debug\Cars.pdb
+F:\3 КУРС\МДК 03.02\Cars\Cars\obj\Debug\Cars.E30Form.resources
+F:\3 КУРС\МДК 03.02\Cars\Cars\obj\Debug\Cars.E32Form.resources
+F:\3 КУРС\МДК 03.02\Cars\Cars\obj\Debug\Cars.E34Form.resources
+F:\3 КУРС\МДК 03.02\Cars\Cars\obj\Debug\Cars.E36Form.resources
+F:\3 КУРС\МДК 03.02\Cars\Cars\obj\Debug\Cars.E38Form.resources
