@@ -1,0 +1,74 @@
+F:\3 КУРС\МДК 03.02\Cars\Cars\bin\Debug\Cars.exe.config
+F:\3 КУРС\МДК 03.02\Cars\Cars\bin\Debug\Cars.exe
+F:\3 КУРС\МДК 03.02\Cars\Cars\bin\Debug\Cars.pdb
+F:\3 КУРС\МДК 03.02\Cars\Cars\obj\Debug\Cars.csproj.AssemblyReference.cache
+F:\3 КУРС\МДК 03.02\Cars\Cars\obj\Debug\Cars.E24Form.resources
+F:\3 КУРС\МДК 03.02\Cars\Cars\obj\Debug\Cars.MainForm.resources
+F:\3 КУРС\МДК 03.02\Cars\Cars\obj\Debug\Cars.Properties.Resources.resources
+F:\3 КУРС\МДК 03.02\Cars\Cars\obj\Debug\Cars.csproj.GenerateResource.cache
+F:\3 КУРС\МДК 03.02\Cars\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
+F:\3 КУРС\МДК 03.02\Cars\Cars\obj\Debug\Cars.exe
+F:\3 КУРС\МДК 03.02\Cars\Cars\obj\Debug\Cars.pdb
+F:\3 КУРС\МДК 03.02\Cars\Cars\obj\Debug\Cars.E30Form.resources
+F:\3 КУРС\МДК 03.02\Cars\Cars\obj\Debug\Cars.E32Form.resources
+F:\3 КУРС\МДК 03.02\Cars\Cars\obj\Debug\Cars.E34Form.resources
+F:\3 КУРС\МДК 03.02\Cars\Cars\obj\Debug\Cars.E36Form.resources
+F:\3 КУРС\МДК 03.02\Cars\Cars\obj\Debug\Cars.E38Form.resources
+E:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.csproj.AssemblyReference.cache
+E:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.E24Form.resources
+E:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.E30Form.resources
+E:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.E32Form.resources
+E:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.E34Form.resources
+E:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.E36Form.resources
+E:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.E38Form.resources
+E:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.FirstForm.resources
+E:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.MainForm.resources
+E:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.Properties.Resources.resources
+E:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.csproj.GenerateResource.cache
+E:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
+E:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.exe
+E:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.pdb
+E:\3 КУРС\Models of Machines\Cars\Cars\bin\Debug\Cars.exe.config
+E:\3 КУРС\Models of Machines\Cars\Cars\bin\Debug\Cars.exe
+E:\3 КУРС\Models of Machines\Cars\Cars\bin\Debug\Cars.pdb
+D:\3 КУРС\Models of Machines\Cars\Cars\bin\Debug\Cars.exe.config
+D:\3 КУРС\Models of Machines\Cars\Cars\bin\Debug\Cars.exe
+D:\3 КУРС\Models of Machines\Cars\Cars\bin\Debug\Cars.pdb
+D:\3 КУРС\Models of Machines\Cars\Cars\bin\Debug\System.Data.SQLite.dll
+D:\3 КУРС\Models of Machines\Cars\Cars\bin\Debug\System.Data.SQLite.xml
+D:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.csproj.AssemblyReference.cache
+D:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.E34Form.resources
+D:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.E36Form.resources
+D:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.E38Form.resources
+D:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.FirstForm.resources
+D:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.M1Form.resources
+D:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.MainForm.resources
+D:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.MSeriesForm.resources
+D:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.Properties.Resources.resources
+D:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.csproj.GenerateResource.cache
+D:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
+D:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.csproj.Up2Date
+D:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.exe
+D:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.pdb
+D:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.M3e36Form.resources
+D:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.M3e46Form.resources
+D:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.M3g80Form.resources
+D:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.M5f90Form.resources
+D:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.M6Form.resources
+D:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.CarsForm.resources
+F:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.csproj.AssemblyReference.cache
+F:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.CarsForm.resources
+F:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.FirstForm.resources
+F:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.MainForm.resources
+F:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.Properties.Resources.resources
+F:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.csproj.GenerateResource.cache
+F:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
+F:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.exe
+F:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.pdb
+F:\3 КУРС\Models of Machines\Cars\Cars\bin\Debug\Cars.exe.config
+F:\3 КУРС\Models of Machines\Cars\Cars\bin\Debug\Cars.exe
+F:\3 КУРС\Models of Machines\Cars\Cars\bin\Debug\Cars.pdb
+F:\3 КУРС\Models of Machines\Cars\Cars\bin\Debug\System.Data.SQLite.dll
+F:\3 КУРС\Models of Machines\Cars\Cars\bin\Debug\System.Data.SQLite.xml
+F:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.csproj.CopyComplete
+F:\3 КУРС\Models of Machines\Cars\Cars\obj\Debug\Cars.InfoForm.resources
